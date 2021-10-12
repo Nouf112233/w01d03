@@ -1,8 +1,21 @@
 
-*{
-    color: chocolate;
+#main{
     margin: 2%;
+
 }
+h3{
+    color: chocolate;
+    text-align: center;
+}
+h1, h2{
+    background-color: orangered ;
+    text-align: center;
+}
+p{
+    color: maroon;
+    font-family: 'Times New Roman';
+}
+
 img{
     width: 300px;
     height: 300px;
@@ -10,6 +23,13 @@ img{
 }
 #img{
     text-align:center;
+}
+th{
+    color: red;
+    
+}
+td{
+    color: purple;
 }
 
 
