@@ -1,6 +1,10 @@
-*{
-    margin: 17.5%;
+#mainDiv{
+    width: 65%;
+    height: 65%;
+    text-align: center;
+    
 }
-nav ul li{
+div ul li{
     display: inline;
+    padding: 5px;
 }
