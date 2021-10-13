@@ -1,0 +1,33 @@
+body{
+    background-color:wheat;
+}
+nav,h1{
+    text-align: center;
+}
+nav{
+    padding: 50px;
+}
+
+img{
+    float: right;
+    width: 10%;
+    height: 3%;
+}
+main{
+    display: flex;
+    
+}
+div{
+    margin: 12px;
+    border: 1px solid black;
+}
+h1,h2,h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h2,h3{
+    text-align: center;
+}
+p{
+    color: cornflowerblue;
+}
